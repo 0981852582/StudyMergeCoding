@@ -10,6 +10,7 @@ namespace ConsoleApp01
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Ver 02");
         }
     }
 }

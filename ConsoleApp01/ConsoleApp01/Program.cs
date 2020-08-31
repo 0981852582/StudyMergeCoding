@@ -16,6 +16,7 @@ namespace ConsoleApp01
             Console.WriteLine("Ver 03");
             Console.WriteLine("Ver 05");
             Console.WriteLine("Ver 06");
+            Console.WriteLine("Ver 07");
         }
     }
 }

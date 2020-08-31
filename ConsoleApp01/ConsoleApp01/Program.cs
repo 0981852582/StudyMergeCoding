@@ -12,11 +12,8 @@ namespace ConsoleApp01
         {
             Console.WriteLine("Ver 02");
             Console.WriteLine("Ver 01");
-<<<<<<< HEAD
             Console.WriteLine("Ver 04");
-=======
             Console.WriteLine("Ver 03");
->>>>>>> 1fdd72ab5f3070519d9f6a7af4c1e527d16a0c96
         }
     }
 }

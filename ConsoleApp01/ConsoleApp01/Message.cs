@@ -6,9 +6,8 @@ using System.Threading.Tasks;
 
 namespace ConsoleApp01
 {
-    class Constant
+    class Message
     {
-        public const string Title = "Title";
-        public const string Des = "Des";
+        public const string Info = "Info";
     }
 }

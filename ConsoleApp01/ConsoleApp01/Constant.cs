@@ -6,11 +6,8 @@ using System.Threading.Tasks;
 
 namespace ConsoleApp01
 {
-    class Program
+    class Constant
     {
-        static void Main(string[] args)
-        {
-            Console.WriteLine("Ver 01");
-        }
+        public const string Title = "Title";
     }
 }

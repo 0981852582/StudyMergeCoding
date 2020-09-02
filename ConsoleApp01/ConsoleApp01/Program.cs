@@ -22,6 +22,7 @@ namespace ConsoleApp01
             Console.WriteLine("Ver 09");
             Console.WriteLine("Ver 10");
             Console.WriteLine("Have been Add Development.cs");
+            Console.WriteLine("Have been Add Merge 01.cs");
         }
     }
 }

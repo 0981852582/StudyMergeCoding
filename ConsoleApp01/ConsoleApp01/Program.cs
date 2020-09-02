@@ -16,6 +16,7 @@ namespace ConsoleApp01
             Console.WriteLine("this is v1");
             Console.WriteLine("Ver 03");
             Console.WriteLine("Ver 05");
+            Console.WriteLine("Try on 2");
             Console.WriteLine("this is Merge 02");
             Console.WriteLine("Try on 1");
             Console.WriteLine("Ver 06");
@@ -25,6 +26,7 @@ namespace ConsoleApp01
             Console.WriteLine("Ver 10");
             Console.WriteLine("Have been Add Development.cs");
             Console.WriteLine("Have been Add Merge 02.cs");
+            Console.WriteLine("Merge Try on 2");
             Console.WriteLine("Have been Add Merge 01.cs");
             Console.WriteLine("Merge Try on 1");
         }

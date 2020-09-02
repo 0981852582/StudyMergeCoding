@@ -13,6 +13,7 @@ namespace ConsoleApp01
             Console.WriteLine("Ver 02");
             Console.WriteLine("Ver 01");
             Console.WriteLine("Ver 04");
+            Console.WriteLine("this is v1");
             Console.WriteLine("Ver 03");
             Console.WriteLine("Ver 05");
             Console.WriteLine("Ver 06");
@@ -20,6 +21,7 @@ namespace ConsoleApp01
             Console.WriteLine("Ver 08");
             Console.WriteLine("Ver 09");
             Console.WriteLine("Ver 10");
+            Console.WriteLine("Have been Add Development.cs");
         }
     }
 }
